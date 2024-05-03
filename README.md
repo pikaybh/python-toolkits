@@ -5,7 +5,7 @@ My personal Python toolkits. Free to fork or clone for anyone.
 ## 1. Installation
 
 1. Change your working directory to the root directory.
-2. `git clone https://github.com/pikaybh/python-toolkits.git utils`
+2. `git clone https://github.com/pikaybh/python-toolkits.git toolkits`
 
 ## 2. Usage
 
